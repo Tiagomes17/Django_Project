@@ -26,7 +26,7 @@ DEBUG_VALUE = os.environ.get('DEBUG_VALUE')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['https://xiagoqloudyxapp.herokuapp.com/']
 
 
 # Application definition
